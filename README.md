@@ -27,6 +27,6 @@ Technologies
 
 How to use:
 - Clone the repository:
-  git clone https://github..com/GabrielYmkt/calculator-python.git
+  git clone https://github.com/GabrielYmkt/calculator-python.git
 
 Developed by: Gabriel Jean (Beginner Developer)
