@@ -60,7 +60,7 @@ while True:
             break
 
         else:
-            print("Invalid option. Type 's' for yes and 'n' for no.")
+            print("Invalid option. Type 'y' for yes and 'n' for no.")
 
     if repeat == "n":
         print("Exiting the program...")
